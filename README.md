@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### how to find me
+  [facebook](https://www.facebook.com/leo.carri.58)
+  [whatsap](+52 5517676775)
+  [instagram](https://www.instagram.com/leo_carrillo_m/?hl=es)
 <!--
 
 I am an Computer engineer who likes the research in Artificial Intelligence, actually i am working in a proyect of classifier of solid waste for my TESIS.
