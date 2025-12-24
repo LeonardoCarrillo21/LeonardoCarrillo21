@@ -6,7 +6,7 @@
   - [Instagram](https://www.instagram.com/leo_carrillo_m/?hl=es)
 
 
-I am an Computer engineer who likes the research in Artificial Intelligence, actually i am working in a proyect of classifier of solid waste for my TESIS.
+I am a Computer engineer and software developer.
 
 - 🔭 I’m currently working on a project of web development for a social group of my community
 - 👯 I’m looking to collaborate on a programming research company
