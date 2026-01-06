@@ -8,7 +8,7 @@
 
 I am a Computer engineer and software developer.
 
-- 🔭 I’m currently working on a project of web development for a social group of my community
+
 - 👯 I’m looking to collaborate on a programming research company
 - 💬 Ask me about questions of matimatics and programing languages like java, python, c, c++, and another tools like tensorflow and keras
 
