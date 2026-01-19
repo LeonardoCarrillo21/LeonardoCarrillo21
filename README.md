@@ -43,7 +43,7 @@ Ingeniero en Computación enfocado en el desarrollo de software de alto rendimie
 Si tienes preguntas sobre matemáticas, algoritmos o quieres colaborar en un proyecto innovador, ¡hablemos!
 
 - **LinkedIn:** [Leonardo Carrillo](https://www.linkedin.com/in/leonardo-javier-carrillo-martinez-software-developer/)
-- **Instagram:** [@leo_carrillo_m](https://www.instagram.com/leo_carrillo_m/?hl=es)
+- **Instagram:** [@leo_carrillo_m](https://www.instagram.com/leo.carrillo.25/?hl=es)
 - **WhatsApp:** [+52 55 1767 6775](https://wa.me/525517676775)
 - **Email:** [carrillomartinezleonardojavier@gmail.com](mailto:carrillomartinezleonardojavier@gmail.com)
 
