@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/LeonardoCarrillo21/mi-portafolio/main/screenshot.png" alt="Portfolio Preview" width="600" style="border-radius: 10px;"/>
   <p><em>Apasionado por la resolución de problemas complejos a través de la ingeniería y la inteligencia artificial.</em></p>
+  <a href="https://mi-portafolio-henna-mu.vercel.app/" style="padding: 10px 10px">Mi Portafolio </a>
 </div>
 
 ---
